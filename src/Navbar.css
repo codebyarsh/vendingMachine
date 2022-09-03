@@ -1,0 +1,13 @@
+.Navbar {
+  padding-block: 1.4rem;
+  background: rgba(125, 107, 107, 0.83);
+  position: fixed;
+  width: 100%;
+}
+
+.Navbar-link a {
+  text-decoration: double;
+  color: hsl(219, 88%, 3%);
+  font-size: 2rem;
+  margin-right: 2rem;
+}
